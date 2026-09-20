@@ -1,4 +1,4 @@
-[Readme.md](https://github.com/user-attachments/files/32432001/Readme.md)
+
 # Semáforo Vehicular y Peatonal con Botón de Cruce
 
 ## Resumen

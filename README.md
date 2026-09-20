@@ -54,7 +54,7 @@ Secuencia: `VEH_VERDE → VEH_AMARILLO → VEH_ROJO → (PEA_VERDE) → VEH_VERD
 
 A continuación se muestran el esquema de conexiones y el circuito ya armado.
 
-![Esquema del circuito](diagrama/diagrama-sema.png)
+![Esquema del circuito](Diagramas/diagrama-sema.png)
 
 ![Circuito armado en protoboard](diagrama/semaforo-fisico.jpg)
 

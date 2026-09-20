@@ -56,7 +56,7 @@ A continuación se muestran el esquema de conexiones y el circuito ya armado.
 
 ![Esquema del circuito](Diagramas/diagrama-sema.png)
 
-![Circuito armado en protoboard](diagrama/semaforo-fisico.jpg)
+![Circuito armado en protoboard](Diagramas/semaforo-fisico.jpg)
 
 ## Código
 

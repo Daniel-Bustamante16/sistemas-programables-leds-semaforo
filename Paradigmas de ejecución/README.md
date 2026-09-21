@@ -37,7 +37,7 @@ Cada LED lleva una resistencia en serie y su cátodo va a GND. La secuencia es: 
 
 Este esquema muestra cómo se conectaron los tres LEDs.
 
-![Esquema del circuito](diagramas/delay-millisimg.png)
+![Esquema del circuito](Diagrama/delay-millisimg.png)
 
 [Abrir la carpeta de diagramas](diagramas)
 

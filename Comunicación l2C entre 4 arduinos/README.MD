@@ -51,10 +51,10 @@ Este esquema muestra cómo se conectaron los cuatro Arduinos en Tinkercad.
 
 Hay cuatro programas, uno por cada nodo del bus: el maestro y los tres esclavos.
 
-* [Código del maestro](codigos/Maestro.ino)
-* [Código del esclavo 1 - LED](codigos/Esclavo1_LED.ino)
-* [Código del esclavo 2 - Servo](codigos/Esclavo2_Servo.ino)
-* [Código del esclavo 3 - Potenciómetro](codigos/Esclavo3_Potenciometro.ino)
+* [Código del maestro](Codigo/Maestro.ino)
+* [Código del esclavo 1 - LED](Codigo/Esclavo1_LED.ino)
+* [Código del esclavo 2 - Servo](Codigo/Esclavo2_Servo.ino)
+* [Código del esclavo 3 - Potenciómetro](Codigo/Esclavo3_Potenciometro.ino)
 
 ## Video de demostración
 
@@ -76,7 +76,7 @@ Esta comparación mostró en la práctica cómo el bus I2C permite agregar vario
 
 El reporte explica el objetivo y la descripción de la práctica, el material utilizado, el diagrama de conexión, el código de los cuatro nodos, los ajustes necesarios para el Arduino Uno R4 WiFi, los errores identificados y las conclusiones.
 
-[Abrir el reporte](reporte/Reporte_Practica_I2C_4_Arduinos.pdf)
+[Abrir el reporte](Reporte/Reporte_Practica4arduinos.pdf)
 
 ## Conclusiones
 

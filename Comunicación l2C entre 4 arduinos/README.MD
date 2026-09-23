@@ -43,7 +43,7 @@ Las cuatro placas comparten las líneas SDA (A4) y SCL (A5) y una tierra (GND) c
 
 Este esquema muestra cómo se conectaron los cuatro Arduinos en Tinkercad.
 
-![Esquema del circuito](Diagrama/i2c-4-arduinos-img.png)
+![Esquema del circuito](Diagrama/diagramaArduinosL2C.png)
 
 [Abrir la carpeta de diagramas](Diagrama)
 

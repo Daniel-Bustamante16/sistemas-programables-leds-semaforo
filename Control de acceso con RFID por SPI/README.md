@@ -53,15 +53,15 @@ Este esquema muestra cómo se conectaron el lector RC522, el LED y el Arduino UN
 
 El programa está en un solo archivo, que inicializa el lector, lee las tarjetas y controla el LED.
 
-* [Código del control de acceso](codigos/control_acceso_rfid.ino)
+* [Código del control de acceso](Codigo/control_acceso_rfid.ino)
 
 ## Video de demostración
 
 En el video se ve el sistema funcionando: la lectura del UID en el Monitor serie, el acceso permitido y denegado, el apagado automático del LED a los 2 segundos y la prueba de desconectar MISO.
 
-* [Ver el video de la práctica](videos/)
+* [Ver el video de la práctica](Video/)
 
-[Abrir la carpeta de videos](videos)
+[Abrir la carpeta de videos](Video)
 
 ## Pruebas y resultados
 

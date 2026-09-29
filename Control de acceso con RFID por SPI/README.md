@@ -45,7 +45,7 @@ El LED se conecta al pin D7 a través de la resistencia de 220 Ω, y su pata cor
 
 Este esquema muestra cómo se conectaron el lector RC522, el LED y el Arduino UNO.
 
-![Esquema del circuito](Diagrama/rfid-conexiones-img.png)
+![Esquema del circuito](Diagrama/Diagrama.jpeg)
 
 [Abrir la carpeta de diagramas](Diagrama)
 

@@ -1,5 +1,3 @@
-[README (1).md](https://github.com/user-attachments/files/33751461/README.1.md)
-
 # Driver de software para un relevador con Arduino
 
 ## Resumen
